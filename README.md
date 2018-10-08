@@ -1,0 +1,1 @@
+This program is an application that uses spring boot to bootstrap a REST API. It will create a notes taking application that allows for notes to be created, updated, deleted and read. It uses mysql and hibernate along with JPA. The application is in Jar format so that it can be utilized in any other application. A front end could also be added to make it a web page. Enjoy!
