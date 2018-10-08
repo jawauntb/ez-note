@@ -1,6 +1,6 @@
 package com.example.eznote.repository;
 
-import com.example.easynotes.model.Note;
+import com.example.eznote.model.Note;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 @Repository
